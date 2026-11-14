@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Marathahalli,
+		Marathahalli,bengaluru
 		Bengaluru,
 		+91 9980923216 and 
 		Devopstrainingblr@Gmail.com
